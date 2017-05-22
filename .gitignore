@@ -8,3 +8,6 @@ mockups/.DS_Store
 fonts/.DS_Store
 icons/.DS_Store
 images/.DS_Store
+*.url
+mockups/mockup_studio_t-shirt_free/MockUp.psd
+mockups/mockup_studio_t-shirt_free/readme.txt
